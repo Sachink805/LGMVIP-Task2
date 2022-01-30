@@ -21,4 +21,3 @@ In the task 2 I have to create a web app and there add a get user button on the 
 **Web Technologies Used**:
 * ReactJS &
 * CSS
-
